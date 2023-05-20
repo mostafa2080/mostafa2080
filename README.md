@@ -39,6 +39,10 @@
 [![Vue.js](https://img.shields.io/badge/-Vue.js%20-05122A?style=flat&logo=vue.js)](https://vuejs.org/)
 [![Django](https://img.shields.io/badge/-Django%20-05122A?style=flat&logo=django)](https://www.djangoproject.com/)
 [![Bash Script](https://img.shields.io/badge/-Bash%20Script%20-05122A?style=flat&logo=gnu-bash)](https://www.gnu.org/software/bash/)
+[![Linux](https://img.shields.io/badge/-Linux%20-05122A?style=flat&logo=linux)](https://www.linux.org/)
+[![Red Hat](https://img.shields.io/badge/-Red%20Hat%20-05122A?style=flat&logo=red-hat)](https://www.redhat.com/)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu%20-05122A?style=flat&logo=ubuntu)](https://ubuntu.com/)
+
 
 
 
