@@ -38,7 +38,8 @@
 [![Angular](https://img.shields.io/badge/-Angular%20-05122A?style=flat&logo=angular)](https://angular.io/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js%20-05122A?style=flat&logo=vue.js)](https://vuejs.org/)
 [![Django](https://img.shields.io/badge/-Django%20-05122A?style=flat&logo=django)](https://www.djangoproject.com/)
-[![jQuery](https://img.shields.io/badge/-jQuery%20-05122A?style=flat&logo=jquery)](https://jquery.com/)
+[![Bash Script](https://img.shields.io/badge/-Bash%20Script%20-05122A?style=flat&logo=gnu-bash)](https://www.gnu.org/software/bash/)
+
 
 
 
