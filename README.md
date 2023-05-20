@@ -42,6 +42,14 @@
 [![Linux](https://img.shields.io/badge/-Linux%20-05122A?style=flat&logo=linux)](https://www.linux.org/)
 [![Red Hat](https://img.shields.io/badge/-Red%20Hat%20-05122A?style=flat&logo=red-hat)](https://www.redhat.com/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu%20-05122A?style=flat&logo=ubuntu)](https://ubuntu.com/)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![Data structure & Algorithm](https://img.shields.io/badge/-Data%20structure%20%26%20Algorithm-05122A?style=flat)
+![GraphQL & Restful API](https://img.shields.io/badge/-GraphQL%20%26%20Restful%20API-05122A?style=flat)
 
 
 
