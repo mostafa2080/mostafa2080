@@ -49,7 +49,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![Data structure & Algorithm](https://img.shields.io/badge/-Data%20structure%20%26%20Algorithm-05122A?style=flat)
-![GraphQL & Restful API](https://img.shields.io/badge/-GraphQL%20%26%20Restful%20API-05122A?style=flat)
+![Restful API](https://img.shields.io/badge/-GraphQL%20%26%20Restful%20API-05122A?style=flat)
 
 
 
