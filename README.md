@@ -55,13 +55,58 @@
 
 
 
+<hr>
 
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa2080&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<!-- <a href="https://komarev.com/ghpvc/?username=mostafa2080&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mostafa2080&style=for-the-badge">
-</a>
- -->
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/mostafa2080/">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa2080&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  
+</p>
+
+<hr>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/mostafa2080/Where-To-go-System" title="NodeJs Where To Go System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa2080&repo=Where-To-go-System&theme=react&border_color=61dafb&border_radius=10">
+  
+  </a><a align="right" href="https://github.com/mostafa2080/ITI-Laravel-Pharmacy-System" title="Laravel Pharmacy System"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa2080&repo=ITI-Laravel-Pharmacy-System&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/mostafa2080/DBMS_BashScript" title="Bash Script DBMS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa2080&repo=DBMS_BashScript&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/mostafa2080/Bird-Game-Vanilla-Js" title="Birds Shooting Game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa2080&repo=Bird-Game-Vanilla-Js&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/mostafa2080/ITI-PHP-Cafeteria" title="Cafteria System Using PHP Native"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa2080&repo=ITI-PHP-Cafeteria&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/mostafa2080/Library_System_NodeJs" title="Vue RealTime Chat App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa2080&repo=Library_System_NodeJs&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/mostafa2080?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
