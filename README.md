@@ -84,8 +84,8 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/mostafa2080/ITI-PHP-Cafeteria" title="Cafteria System Using PHP Native"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa2080&repo=ITI-PHP-Cafeteria&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/mostafa2080/Library_System_NodeJs" title="Vue RealTime Chat App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa2080&repo=Library_System_NodeJs&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/mostafa2080/ITI-PHP-Cafeteria" title="Cafteria System Using Native PHP "><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa2080&repo=ITI-PHP-Cafeteria&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/mostafa2080/Library_System_NodeJs" title="Library System Using Nodejs (RESTful api)"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa2080&repo=Library_System_NodeJs&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
