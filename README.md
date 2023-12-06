@@ -68,32 +68,6 @@
   
 </p>
 
-<hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/mostafa2080/Where-To-go-System" title="Where-To-go-System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa2080&repo=Where-To-go-System&theme=react&border_color=61dafb&border_radius=10">
-  
-  </a><a align="right" href="https://github.com/mostafa2080/ITI-Laravel-Pharmacy-System" title="Laravel Pharmacy System"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa2080&repo=ITI-Laravel-Pharmacy-System&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/mostafa2080/DBMS_BashScript" title="Bash Script DBMS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa2080&repo=DBMS_BashScript&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/mostafa2080/Bird-Game-Vanilla-Js" title="Birds Shooting Game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa2080&repo=Bird-Game-Vanilla-Js&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/mostafa2080/e-commerce-api" title="e-commerce api"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa2080&repo=e-commerce-api&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/mostafa2080/Library_System_NodeJs" title="Library System Using Nodejs (RESTful api)"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mostafa2080&repo=Library_System_NodeJs&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/mostafa2080?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
-
 
 
 
